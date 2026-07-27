@@ -1,0 +1,47 @@
+name: 🐛 버그 수정
+description: 이미 발견된 버그를 직접 고칩니다
+title: "fix: "
+labels: ["fix"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **버그를 발견하기만 한 경우에는 이 템플릿이 아니라 「🚨 버그 신고」를 사용해주세요.**
+
+        여기는 원인을 파악했고 직접 고칠 계획이 있을 때 쓰는 템플릿입니다.
+
+  - type: input
+    id: report
+    attributes:
+      label: 관련 신고 이슈
+      description: 버그 신고 이슈가 있다면 번호를 적어주세요
+      placeholder: "#12"
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 어떤 문제인가요
+      placeholder: 로그인 실패 시 에러 메시지가 뜨지 않고 화면이 멈춥니다
+    validations:
+      required: true
+
+  - type: textarea
+    id: cause
+    attributes:
+      label: 원인
+      description: 아직 모르겠다면 "확인 중"이라고 적고 나중에 수정해도 됩니다
+      placeholder: catch 블록에서 에러를 무시하고 있었습니다
+    validations:
+      required: true
+
+  - type: textarea
+    id: todo
+    attributes:
+      label: 수정 계획
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true

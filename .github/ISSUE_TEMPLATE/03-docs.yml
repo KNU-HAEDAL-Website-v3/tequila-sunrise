@@ -1,0 +1,37 @@
+name: 📝 문서
+description: README, 주석, 가이드 등 문서를 작성하거나 수정합니다
+title: "docs: "
+labels: ["docs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        코드 동작이 바뀌지 않는 문서 작업에 사용합니다.
+        README, 주석, 위키, 설치 가이드, 오타 수정 등이 해당됩니다.
+
+  - type: input
+    id: target
+    attributes:
+      label: 대상 문서
+      placeholder: README.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: 작업 내용
+      description: 무엇을 어떻게 바꿀 계획인가요
+      placeholder: 설치 방법이 빠져 있어서 실행 순서를 단계별로 추가합니다
+    validations:
+      required: true
+
+  - type: textarea
+    id: todo
+    attributes:
+      label: 할 일
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: false
