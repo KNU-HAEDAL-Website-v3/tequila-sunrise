@@ -1,6 +1,6 @@
 # tequila-sunrise
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 이슈와 PR 그리고 깃허브 설정을 연습하는 실험용 레포지토리.
@@ -33,6 +33,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/umjunsik1010"><img src="https://avatars.githubusercontent.com/u/108169711?v=4?s=100" width="100px;" alt="umjunsik1010"/><br /><sub><b>umjunsik1010</b></sub></a><br /><a href="#question-umjunsik1010" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oxyznewl"><img src="https://avatars.githubusercontent.com/u/202060209?v=4?s=100" width="100px;" alt="KIM MINJU"/><br /><sub><b>KIM MINJU</b></sub></a><br /><a href="#question-oxyznewl" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GillbertDH"><img src="https://avatars.githubusercontent.com/u/257316723?v=4?s=100" width="100px;" alt="GillbertDH"/><br /><sub><b>GillbertDH</b></sub></a><br /><a href="#question-GillbertDH" title="Answering Questions">💬</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/minji401"><img src="https://avatars.githubusercontent.com/u/152465581?v=4?s=100" width="100px;" alt="minji401"/><br /><sub><b>minji401</b></sub></a><br /><a href="https://github.com/KNU-HAEDAL-Website-v3/tequila-sunrise/issues?q=author%3Aminji401" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
