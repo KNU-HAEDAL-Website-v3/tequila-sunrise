@@ -70,6 +70,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "minji401",
+      "name": "minji401",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152465581?v=4",
+      "profile": "https://github.com/minji401",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
