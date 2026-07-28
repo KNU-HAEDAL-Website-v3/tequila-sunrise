@@ -30,6 +30,11 @@
       "name": "pigmal24",
       "avatar_url": "https://avatars.githubusercontent.com/u/162342508?v=4",
       "profile": "https://github.com/pigmal24",
+      "contributions":[
+        "question"
+      ]
+    },
+    {
       "login": "suwan1105",
       "name": "suwan1105",
       "avatar_url": "https://avatars.githubusercontent.com/u/232759029?v=4",
@@ -37,6 +42,9 @@
       "contributions": [
         "question",
         "bug"
+      ]
+    },
+    {
       "login": "umjunsik1010",
       "name": "umjunsik1010",
       "avatar_url": "https://avatars.githubusercontent.com/u/108169711?v=4",
