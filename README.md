@@ -8,8 +8,8 @@
 
 ## 코드 기여자
 
-<a href="https://github.com/KNU-HAEDAL-Website-v3/Tequila-sunrise/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KNU-HAEDAL-Website-v3/Tequila-sunrise" />
+<a href="https://github.com/KNU-HAEDAL-Website-v3/tequila-sunrise/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KNU-HAEDAL-Website-v3/tequila-sunrise" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
