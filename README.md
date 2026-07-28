@@ -1,6 +1,6 @@
 # tequila-sunrise
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 이슈와 PR 그리고 깃허브 설정을 연습하는 실험용 레포지토리.
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/g1new"><img src="https://avatars.githubusercontent.com/u/203852638?v=4?s=100" width="100px;" alt="g1new"/><br /><sub><b>g1new</b></sub></a><br /><a href="#question-g1new" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/miraefuture0727-droid"><img src="https://avatars.githubusercontent.com/u/268866586?v=4?s=100" width="100px;" alt="ParkTaeJoon"/><br /><sub><b>ParkTaeJoon</b></sub></a><br /><a href="#question-miraefuture0727-droid" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
